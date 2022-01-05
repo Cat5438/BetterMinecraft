@@ -1,0 +1,2 @@
+# BetterMinecraft
+Better Minecraft Server
